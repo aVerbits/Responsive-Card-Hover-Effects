@@ -60,7 +60,7 @@ body {
 .container .card .content {
     position: relative;
     margin-top: -140px;
-    padding: 55px 15px;
+    padding: 20px 15px;
     text-align: center;
     color: #111;
     visibility: hidden;
